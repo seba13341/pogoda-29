@@ -6,3 +6,5 @@ venv
 weather.xlsx
 
 .env
+
+__pycache__
